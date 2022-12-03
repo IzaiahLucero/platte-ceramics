@@ -1,0 +1,19 @@
+#header {
+    height: 90vh;
+    background-image: url("images/carousel-img-1.jpg");
+    background-size: cover;
+    color: white;
+}
+
+#introduction {
+    height: 90vh;
+    background-color: #EDE1CA;
+}
+
+#aboutImage {
+    width: 100%;
+}
+
+#about-content {
+    height: 100%;
+}
