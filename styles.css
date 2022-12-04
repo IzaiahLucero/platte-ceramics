@@ -1,3 +1,6 @@
+body {
+    font-family: Aglet Slab;
+}
 #header {
     height: 100vh;
     background-image: url("images/header-image.jpeg");
@@ -7,31 +10,22 @@
     font-size: 2em;
 }
 
-#introduction {
-    background-color:;
+#logoImage {
+    width: 100%;
+}
+
+#productSection {
     color: #B24F13;
-    font-family: Aglet Slab;
+    background-color: whitesmoke;
 }
 
-#aboutImage {
-    height: 100%;
-    max-width: 100%;
-
+#productImages {
+    width: 100%;
 }
 
-#about-content {
-    height: 100%;
-}
-
-#gallery {
+#gallerySection {
     background-color: #EDE1CA;
     color: white;
-    height: 100vh;
-}
-
-#contact {
-    background-color: whitesmoke;
-    height: 90vh;
 }
 
 #galleryImages {
@@ -39,6 +33,6 @@
     border-radius: 10px;
 }
 
-#recentImages {
-    width: 100%;
+#contact {
+    background-color: whitesmoke;
 }
